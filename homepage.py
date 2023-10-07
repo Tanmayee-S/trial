@@ -6,5 +6,5 @@ st.set_page_config(
 
 )
 
-st.tile("Main Page")
+st.title("Main Page")
 st.sidebar.success("See page above")
